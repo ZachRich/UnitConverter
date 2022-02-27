@@ -1,0 +1,27 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+.header {
+  padding: 60px;
+  background-image: linear-gradient(to right, #05795a, #10b680);
+  text-align: center;
+}
+
+h1 {
+  color: antiquewhite;
+}
+
+h2 {
+  text-align: center;
+  color: antiquewhite;
+}
+
+p {
+  font-size: 55;
+  color: antiquewhite;
+  text-align: center;
+}
